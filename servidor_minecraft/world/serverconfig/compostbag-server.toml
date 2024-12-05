@@ -1,0 +1,6 @@
+
+[server]
+	#Max bonemeal in compost bag
+	#Range: > 0
+	maxBonemeal = 128
+

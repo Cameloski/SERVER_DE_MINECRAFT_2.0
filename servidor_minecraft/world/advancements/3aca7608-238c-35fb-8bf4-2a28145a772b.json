@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/kukri_dagger": {
-    "criteria": {
-      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2024-12-05 02:30:32 +0000"
@@ -44,12 +38,6 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-05 02:30:32 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/enter_dark_forest": {
-    "criteria": {
-      "enter_dark_forest": "2024-12-05 02:30:33 +0000"
     },
     "done": true
   },
@@ -119,21 +107,9 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/root": {
-    "criteria": {
-      "enter_dark_forest": "2024-12-05 02:30:33 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-12-05 02:30:32 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_leggings": {
-    "criteria": {
-      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
     },
     "done": true
   },
@@ -165,12 +141,6 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-05 02:30:32 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/kukri": {
-    "criteria": {
-      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
     },
     "done": true
   },
@@ -208,12 +178,6 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-05 02:30:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-05 02:30:59 +0000"
     },
     "done": true
   },
@@ -283,12 +247,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/evoker_boots": {
-    "criteria": {
-      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2024-12-05 02:30:32 +0000"
@@ -313,18 +271,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/evoker_chestplate": {
-    "criteria": {
-      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_helmet": {
-    "criteria": {
-      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2024-12-05 02:30:32 +0000"
@@ -334,12 +280,6 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-05 02:30:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-05 02:30:59 +0000"
     },
     "done": true
   },
@@ -380,12 +320,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-05 02:30:59 +0000"
-    },
-    "done": true
-  },
   "yungscavebiomes:root": {
     "criteria": {
       "always": "2024-12-05 02:30:32 +0000"
@@ -404,12 +338,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:dark_forest": "2024-12-05 02:30:33 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2024-12-05 02:30:32 +0000"
@@ -426,6 +354,78 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-12-05 02:30:32 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_dark_forest": {
+    "criteria": {
+      "enter_dark_forest": "2024-12-05 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_dark_forest": "2024-12-05 02:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2024-12-05 02:30:33 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/kukri_dagger": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_leggings": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_boots": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_chestplate": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_helmet": {
+    "criteria": {
+      "has_dark_oak_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 02:30:59 +0000"
     },
     "done": true
   },

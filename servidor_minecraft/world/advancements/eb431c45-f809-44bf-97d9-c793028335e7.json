@@ -1888,6 +1888,12 @@
     },
     "done": true
   },
+  "bakery:recipes/cabinet": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/butter": {
     "criteria": {
       "has_water_bucket": "2024-12-05 23:54:35 +0000"
@@ -2026,6 +2032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 23:45:19 +0000"
@@ -2050,6 +2062,12 @@
     },
     "done": true
   },
+  "bakery:recipes/rolling_pin": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "player_companions:recipes/tame_wheat_seed_from_wheat_seed": {
     "criteria": {
       "has_wheat": "2024-12-05 23:49:01 +0000"
@@ -2071,6 +2089,12 @@
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-05 23:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -2131,6 +2155,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-12-05 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/wall_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -2239,6 +2269,12 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-05 23:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -2428,6 +2464,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2024-12-06 00:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-05 23:45:26 +0000"
@@ -2512,6 +2554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-06 00:03:44 +0000"
@@ -2535,6 +2583,18 @@
       "has_stone_types_diorite": "2024-12-05 23:45:19 +0000"
     },
     "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "demons_grasp": "2024-12-06 00:14:08 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
@@ -2587,6 +2647,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-05 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/brick_counter": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -2650,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-05 23:45:19 +0000"
@@ -2677,6 +2749,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-06 00:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-06 00:15:18 +0000"
     },
     "done": true
   },
@@ -2875,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-06 00:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 23:50:09 +0000"
@@ -2890,6 +2974,12 @@
   "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-05 23:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-06 00:15:18 +0000"
     },
     "done": true
   },
@@ -2926,6 +3016,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-05 23:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -3031,6 +3127,12 @@
     },
     "done": true
   },
+  "bakery:recipes/chocolate_box": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "player_companions:recipes/tame_bone_from_bone": {
     "criteria": {
       "has_bone": "2024-12-06 00:02:53 +0000"
@@ -3115,6 +3217,12 @@
     },
     "done": true
   },
+  "genshinstrument:recipes/windsong_lyre": {
+    "criteria": {
+      "has_main": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2024-12-05 23:49:10 +0000"
@@ -3170,15 +3278,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/gold_bow": {
     "criteria": {
       "has_bow": "2024-12-05 23:58:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/street_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/deepslate_chestplate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 23:50:09 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -3212,6 +3344,12 @@
     },
     "done": true
   },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2024-12-06 00:14:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-05 23:45:26 +0000"
@@ -3221,6 +3359,18 @@
   "knightquest:recipes/misc/zombie_chestplate": {
     "criteria": {
       "has_rotten_flesh": "2024-12-05 23:55:02 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/tray": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },
@@ -3269,6 +3419,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 23:50:09 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2024-12-06 00:14:06 +0000"
     },
     "done": true
   },
@@ -3341,6 +3497,18 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-06 00:07:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2024-12-06 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-06 00:10:17 +0000"
     },
     "done": true
   },

@@ -29,3 +29,27 @@
 [06Dec2024 00:10:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 102.500000, -1.500000, 356.500000]
 [06Dec2024 00:11:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to Cameloski11]
 [06Dec2024 00:13:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 160.500000, -0.500000, 366.500000]
+[06Dec2024 00:13:20.498] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=367, y=30, z=177}
+[06Dec2024 00:13:29.971] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=319, y=23, z=591}
+[06Dec2024 00:13:43.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP has made the advancement [Simple Dungeon Room]
+[06Dec2024 00:13:43.571] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=111, y=8, z=362} within 50 chunks
+[06Dec2024 00:13:43.882] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 310ms)
+[06Dec2024 00:13:43.909] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:13:49.344] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=380, y=73, z=570}
+[06Dec2024 00:13:49.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=378, y=65, z=574}
+[06Dec2024 00:13:49.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=370, y=-38, z=196}
+[06Dec2024 00:13:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP has made the advancement [Too Many Bows]
+[06Dec2024 00:14:01.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:14:06.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [Simple Dungeon Room]
+[06Dec2024 00:14:06.362] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=108, y=8, z=356} within 50 chunks
+[06Dec2024 00:14:06.363] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:14:06.380] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:14:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [Too Many Bows]
+[06Dec2024 00:15:59.498] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=262, y=-24, z=98}
+[06Dec2024 00:18:09.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to Cameloski11]
+[06Dec2024 00:20:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:20:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:21:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 was shot by Dark Vortex
+[06Dec2024 00:21:48.960] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:21:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:22:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [The Wind Darkening]

@@ -21008,3 +21008,85 @@ Villager Trade Enabled: true
 [06Dec2024 00:11:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to Cameloski11]
 [06Dec2024 00:11:23.107] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
 [06Dec2024 00:13:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 160.500000, -0.500000, 366.500000]
+[06Dec2024 00:13:20.498] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=367, y=30, z=177}
+[06Dec2024 00:13:26.116] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:venus_orbit
+[06Dec2024 00:13:29.971] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=319, y=23, z=591}
+[06Dec2024 00:13:36.064] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/tower is being run through DFU (hash 5d93cca423ed17bce1bf0b0c38a02c54997ed2450c61ccc16024f5e0a6da5c73), this will cause launch time delays
+[06Dec2024 00:13:36.210] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/camp_south is being run through DFU (hash 06b8aa5d0dba0c0fa76b5f7c5191335df747fbd79d4e2481afeb02fa860f6933), this will cause launch time delays
+[06Dec2024 00:13:36.222] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/camp_north is being run through DFU (hash 958830efbf1b43773e634b0da48f5ef4f8a3beeecf03f83ba5126054cfbccf34), this will cause launch time delays
+[06Dec2024 00:13:36.231] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/campsite is being run through DFU (hash 878161300074d11eb1fb71bab7a4fa1e706b9bf11c47d3725c497de6576c7ce1), this will cause launch time delays
+[06Dec2024 00:13:36.259] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/shack is being run through DFU (hash 4e5246bc25a0d30cc1167da55cfdecdac0ce133c33cc314bcded0f983a7e35e2), this will cause launch time delays
+[06Dec2024 00:13:36.261] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/potato is being run through DFU (hash 96eee7dcab41488e563dff6473fde64a510c1894eee988dbcb405e49aeb6995d), this will cause launch time delays
+[06Dec2024 00:13:36.262] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/hay is being run through DFU (hash 99f6c3ebaf0dd784e245360cb43687bef96827a550604bb8069684e7fe07d207), this will cause launch time delays
+[06Dec2024 00:13:36.264] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/tent is being run through DFU (hash b284c55c656b42d667d13448ffae751a6b3f5b03989bbe7ba9fdc25f6c47e2e3), this will cause launch time delays
+[06Dec2024 00:13:36.265] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/small_decorations is being run through DFU (hash 612506561292a8e174cde84c234d5520f09c1e1e15b05ded052ffaf7d1c6f568), this will cause launch time delays
+[06Dec2024 00:13:36.271] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/medium_decorations is being run through DFU (hash 4eaf96652ffd077c56876f6a2765f9f36a19d5f3d4dddc0f2f5e42ed5fbe2244), this will cause launch time delays
+[06Dec2024 00:13:36.280] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/villager_cage is being run through DFU (hash 0a6cdf5b7c17e0f2ffe3f77bdd31ac259f57d7f502af44447c440e48c3937d43), this will cause launch time delays
+[06Dec2024 00:13:36.296] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/gallows is being run through DFU (hash 384a32e82720fc812c40fa3cbfc5718af2689b4da622e37a4cc30ce13dd2308e), this will cause launch time delays
+[06Dec2024 00:13:36.307] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/halves/tree is being run through DFU (hash 647f379f12573e94c53adbd5951d83573ac4101dd8cfdfe8851e92d20befeb12), this will cause launch time delays
+[06Dec2024 00:13:36.321] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/rock_1 is being run through DFU (hash 14976d2f4615d013937d9390fded5841b2648bb869dc6d70f6e6d4ace19282da), this will cause launch time delays
+[06Dec2024 00:13:36.323] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/mobs is being run through DFU (hash 1eaf29fa0bb2716a7362b92685e2de91c85c70859ef697c4a828b1afed9c61cc), this will cause launch time delays
+[06Dec2024 00:13:36.330] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/rock_2 is being run through DFU (hash cb7c4373291aceb71485e2df507a100c8159ae7f5040cb48a93a2c374186a761), this will cause launch time delays
+[06Dec2024 00:13:36.332] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/tower is being run through DFU (hash a2ee1c76a286766d4c8f3655852123a4886bab2a1fa06c167b143f7c8af60018), this will cause launch time delays
+[06Dec2024 00:13:36.333] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/targets is being run through DFU (hash 574e4895223108cdc5f545258d25a9e49224f850649594d05a559e18eea72ee7), this will cause launch time delays
+[06Dec2024 00:13:36.334] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/pumpkin is being run through DFU (hash bb5c989724860ce84f392e8520bc92db76b237c5e32e62a5018ccf825d0c2c4a), this will cause launch time delays
+[06Dec2024 00:13:36.335] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/logs is being run through DFU (hash 1c41c1a3faee6ada98807b79ddb0aba70242729fd20bb68a507ba89c2eb5e262), this will cause launch time delays
+[06Dec2024 00:13:36.337] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/iron_golem_cage is being run through DFU (hash 97731cf3901f94d603517a0397b3e6c602ff2b023262c948c98d852889deb387), this will cause launch time delays
+[06Dec2024 00:13:36.340] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/barrels is being run through DFU (hash cd73884748a85a3bacadeb0ab759765ca88c0555986e0cfee715a6684404d1a1), this will cause launch time delays
+[06Dec2024 00:13:43.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP has made the advancement [Simple Dungeon Room]
+[06Dec2024 00:13:43.569] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Intercepted ExplorationMapFunction#run call
+[06Dec2024 00:13:43.569] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Creating locate task for TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=111, y=8, z=362} within 50 chunks
+[06Dec2024 00:13:43.571] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=111, y=8, z=362} within 50 chunks
+[06Dec2024 00:13:43.574] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 00:13:43.882] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 310ms)
+[06Dec2024 00:13:43.909] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:13:43.910] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[06Dec2024 00:13:48.644] [Worker-Main-2/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[06Dec2024 00:13:49.177] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[06Dec2024 00:13:49.344] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=380, y=73, z=570}
+[06Dec2024 00:13:49.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=378, y=65, z=574}
+[06Dec2024 00:13:49.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=370, y=-38, z=196}
+[06Dec2024 00:13:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP has made the advancement [Too Many Bows]
+[06Dec2024 00:14:01.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:14:02.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:14:02.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:14:06.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [Simple Dungeon Room]
+[06Dec2024 00:14:06.362] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Intercepted ExplorationMapFunction#run call
+[06Dec2024 00:14:06.362] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Creating locate task for TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=108, y=8, z=356} within 50 chunks
+[06Dec2024 00:14:06.362] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=108, y=8, z=356} within 50 chunks
+[06Dec2024 00:14:06.363] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:14:06.363] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 00:14:06.380] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:14:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [Too Many Bows]
+[06Dec2024 00:14:33.107] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:glacio_orbit
+[06Dec2024 00:14:35.109] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[06Dec2024 00:15:04.113] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[06Dec2024 00:15:59.498] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=262, y=-24, z=98}
+[06Dec2024 00:16:08.111] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mars_orbit
+[06Dec2024 00:17:25.111] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:mercury_orbit
+[06Dec2024 00:17:35.110] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:venus
+[06Dec2024 00:17:54.114] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:venus_orbit
+[06Dec2024 00:17:57.115] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:glacio
+[06Dec2024 00:18:02.250] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$9594e3e33d3940ee825c022a9481e562 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[06Dec2024 00:18:08.109] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:moon
+[06Dec2024 00:18:09.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to Cameloski11]
+[06Dec2024 00:18:14.108] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[06Dec2024 00:18:51.107] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mars
+[06Dec2024 00:19:02.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:19:02.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:19:03.093] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[06Dec2024 00:19:05.111] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:moon_orbit
+[06Dec2024 00:19:34.110] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[06Dec2024 00:19:57.109] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[06Dec2024 00:20:05.113] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:earth_orbit
+[06Dec2024 00:20:18.107] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[06Dec2024 00:20:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:20:32.110] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mercury
+[06Dec2024 00:20:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:21:41.107] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:moon_orbit
+[06Dec2024 00:21:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 was shot by Dark Vortex
+[06Dec2024 00:21:48.108] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:moon
+[06Dec2024 00:21:48.960] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:21:49.000] [Server thread/DEBUG] [twilightforest/]: Player Cameloski11 (eb431c45-f809-44bf-97d9-c793028335e7) respawned and received items held in storage
+[06Dec2024 00:21:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:22:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [The Wind Darkening]

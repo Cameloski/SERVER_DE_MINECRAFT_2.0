@@ -3,3 +3,29 @@
 [06Dec2024 00:02:45.592] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-43, y=-1, z=528}
 [06Dec2024 00:02:54.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-142, y=-43, z=557}
 [06Dec2024 00:02:55.128] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-235, y=-17, z=518}
+[06Dec2024 00:04:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP was slain by Corpse Fly
+[06Dec2024 00:04:49.670] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:04:53.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to Cameloski11]
+[06Dec2024 00:06:22.617] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=259, y=-24, z=162}
+[06Dec2024 00:07:42.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=296, y=33, z=446}
+[06Dec2024 00:07:53.389] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=319, y=68, z=551}
+[06Dec2024 00:07:53.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=323, y=76, z=553}
+[06Dec2024 00:08:09.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=281, y=80, z=573}
+[06Dec2024 00:08:16.284] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=279, y=72, z=577}
+[06Dec2024 00:08:24.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=169, y=29, z=596}
+[06Dec2024 00:08:24.381] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=254, y=0, z=605}
+[06Dec2024 00:09:00.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:09:14.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP was slain by Cave Spider
+[06Dec2024 00:09:15.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 was shot by Skeleton
+[06Dec2024 00:09:16.360] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:09:16.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=199, y=21, z=608}
+[06Dec2024 00:09:16.981] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=250, y=23, z=622}
+[06Dec2024 00:09:17.058] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:09:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to 119.500000, -0.500000, 378.500000]
+[06Dec2024 00:09:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 106.500000, -17.500000, 396.500000]
+[06Dec2024 00:09:34.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to 5.500000, 0.500000, 281.500000]
+[06Dec2024 00:09:47.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:10:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:10:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 102.500000, -1.500000, 356.500000]
+[06Dec2024 00:11:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to Cameloski11]
+[06Dec2024 00:13:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 160.500000, -0.500000, 366.500000]

@@ -53,3 +53,72 @@
 [06Dec2024 00:21:48.960] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [06Dec2024 00:21:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
 [06Dec2024 00:22:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [The Wind Darkening]
+[06Dec2024 00:24:29.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 286.500000, 23.500000, 308.500000]
+[06Dec2024 00:24:34.522] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=408, y=-40, z=176}
+[06Dec2024 00:24:36.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=420, y=14, z=240}
+[06Dec2024 00:24:36.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=409, y=-16, z=457}
+[06Dec2024 00:24:42.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=455, y=15, z=257}
+[06Dec2024 00:24:43.171] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=445, y=35, z=484}
+[06Dec2024 00:24:48.867] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=284, y=23, z=302} within 50 chunks
+[06Dec2024 00:24:48.868] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:24:48.886] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:24:49.657] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=286, y=23, z=302} within 50 chunks
+[06Dec2024 00:24:49.658] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:24:49.673] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:25:01.367] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=282, y=23, z=306} within 50 chunks
+[06Dec2024 00:25:01.368] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:25:01.384] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:25:01.961] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find block entity on chest Block{minecraft:cave_air} at BlockPos{x=282, y=23, z=306}
+[06Dec2024 00:25:44.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP was slain by Dread Hound
+[06Dec2024 00:25:46.163] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:25:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to 136.500000, 63.500000, 375.500000]
+[06Dec2024 00:25:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:26:42.885] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=207, y=35, z=629}
+[06Dec2024 00:26:43.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=271, y=14, z=632}
+[06Dec2024 00:26:44.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-37, y=38, z=631}
+[06Dec2024 00:27:59.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cameloski11 lost connection: Disconnected
+[06Dec2024 00:27:59.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 left the game
+[06Dec2024 00:28:04.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAAANMAHP lost connection: Disconnected
+[06Dec2024 00:28:04.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP left the game
+[06Dec2024 00:28:05.107] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
+[06Dec2024 00:28:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 00:28:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 00:28:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 00:28:05.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=304, y=-37, z=635}
+[06Dec2024 00:28:05.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 00:28:07.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[06Dec2024 00:28:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 00:28:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06Dec2024 00:28:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[06Dec2024 00:28:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[06Dec2024 00:28:07.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[06Dec2024 00:28:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Dec2024 00:28:07.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 00:28:07.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[06Dec2024 00:28:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[06Dec2024 00:28:07.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[06Dec2024 00:28:07.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[06Dec2024 00:28:07.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[06Dec2024 00:28:07.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06Dec2024 00:28:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[06Dec2024 00:28:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[06Dec2024 00:28:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -21090,3 +21090,143 @@ Villager Trade Enabled: true
 [06Dec2024 00:21:49.000] [Server thread/DEBUG] [twilightforest/]: Player Cameloski11 (eb431c45-f809-44bf-97d9-c793028335e7) respawned and received items held in storage
 [06Dec2024 00:21:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
 [06Dec2024 00:22:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 has made the advancement [The Wind Darkening]
+[06Dec2024 00:24:02.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:24:02.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:24:29.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to 286.500000, 23.500000, 308.500000]
+[06Dec2024 00:24:30.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[06Dec2024 00:24:30.618] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_01 is being run through DFU (hash aae954b46b33c18292a82912817d49d1d3280d65b48008cb8aaf2a26e70c9477), this will cause launch time delays
+[06Dec2024 00:24:33.262] [Worker-Main-2/DEBUG] [ModernFix/]: Structure underground_jungle:temple_3 is being run through DFU (hash 4df3a88a2d7b5208d9730fc6efbd78c8d613a3da62b181269f5d2ae3e6f6291a), this will cause launch time delays
+[06Dec2024 00:24:34.522] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=408, y=-40, z=176}
+[06Dec2024 00:24:35.425] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[06Dec2024 00:24:35.523] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Dec2024 00:24:35.541] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[06Dec2024 00:24:35.558] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_0 is being run through DFU (hash f4fd272fc03cccba32d37cd75322fc6181341d971dd898fef76b9f654ffb339e), this will cause launch time delays
+[06Dec2024 00:24:35.598] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[06Dec2024 00:24:35.606] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[06Dec2024 00:24:36.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=420, y=14, z=240}
+[06Dec2024 00:24:36.552] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_06 is being run through DFU (hash 1f580368cac5999df0a7c333976a7c447630e45aeb8c134c8c3f34cc1b3842b6), this will cause launch time delays
+[06Dec2024 00:24:36.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=409, y=-16, z=457}
+[06Dec2024 00:24:37.199] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_10 is being run through DFU (hash c7974966b3cacec8f613dc29c7de8da5876a080944286a022e569a6cf4e769ea), this will cause launch time delays
+[06Dec2024 00:24:37.587] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_red_mushroom_stem_01 is being run through DFU (hash 4ac9200a4f7a173b0db6bd2d0064522ed1034854f8f089a7357fdf6f2536884c), this will cause launch time delays
+[06Dec2024 00:24:37.652] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[06Dec2024 00:24:37.670] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[06Dec2024 00:24:42.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=455, y=15, z=257}
+[06Dec2024 00:24:42.106] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:haunted_house/start_pool/haunted_house_01 is being run through DFU (hash b2a0a03ff0b8dc541f6487f5696fd224a5582ae0dcd9b947e26de2316e2b771c), this will cause launch time delays
+[06Dec2024 00:24:43.171] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=445, y=35, z=484}
+[06Dec2024 00:24:47.093] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[06Dec2024 00:24:48.867] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Intercepted ExplorationMapFunction#run call
+[06Dec2024 00:24:48.867] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Creating locate task for TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=284, y=23, z=302} within 50 chunks
+[06Dec2024 00:24:48.867] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=284, y=23, z=302} within 50 chunks
+[06Dec2024 00:24:48.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 00:24:48.868] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:24:48.886] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:24:49.657] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Intercepted ExplorationMapFunction#run call
+[06Dec2024 00:24:49.657] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Creating locate task for TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=286, y=23, z=302} within 50 chunks
+[06Dec2024 00:24:49.657] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=286, y=23, z=302} within 50 chunks
+[06Dec2024 00:24:49.658] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:24:49.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 00:24:49.673] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:25:01.367] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Intercepted ExplorationMapFunction#run call
+[06Dec2024 00:25:01.367] [Server thread/DEBUG] [Async Locator/]: Async Locator -> Creating locate task for TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=282, y=23, z=306} within 50 chunks
+[06Dec2024 00:25:01.367] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] in ServerLevel[world] around BlockPos{x=282, y=23, z=306} within 50 chunks
+[06Dec2024 00:25:01.368] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeonnowloading:labyrinth] at BlockPos{x=816, y=0, z=-336} (took 0ms)
+[06Dec2024 00:25:01.384] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[06Dec2024 00:25:01.961] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find block entity on chest Block{minecraft:cave_air} at BlockPos{x=282, y=23, z=306}
+[06Dec2024 00:25:02.282] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:venus
+[06Dec2024 00:25:44.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP was slain by Dread Hound
+[06Dec2024 00:25:46.163] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 00:25:46.202] [Server thread/DEBUG] [twilightforest/]: Player JUAAANMAHP (39545be4-83e1-4dce-b3f4-859f41c425ee) respawned and received items held in storage
+[06Dec2024 00:25:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUAAANMAHP: Teleported JUAAANMAHP to 136.500000, 63.500000, 375.500000]
+[06Dec2024 00:25:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cameloski11: Teleported Cameloski11 to JUAAANMAHP]
+[06Dec2024 00:26:04.108] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:earth_orbit
+[06Dec2024 00:26:05.117] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[06Dec2024 00:26:32.107] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mercury_orbit
+[06Dec2024 00:26:42.885] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=207, y=35, z=629}
+[06Dec2024 00:26:43.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=271, y=14, z=632}
+[06Dec2024 00:26:44.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-37, y=38, z=631}
+[06Dec2024 00:27:59.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cameloski11 lost connection: Disconnected
+[06Dec2024 00:27:59.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cameloski11 left the game
+[06Dec2024 00:28:04.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUAAANMAHP lost connection: Disconnected
+[06Dec2024 00:28:04.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUAAANMAHP left the game
+[06Dec2024 00:28:05.107] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
+[06Dec2024 00:28:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 00:28:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 00:28:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 00:28:05.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=304, y=-37, z=635}
+[06Dec2024 00:28:05.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 00:28:07.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[06Dec2024 00:28:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 00:28:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06Dec2024 00:28:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[06Dec2024 00:28:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[06Dec2024 00:28:07.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[06Dec2024 00:28:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Dec2024 00:28:07.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 00:28:07.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[06Dec2024 00:28:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[06Dec2024 00:28:07.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[06Dec2024 00:28:07.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[06Dec2024 00:28:07.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[06Dec2024 00:28:07.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06Dec2024 00:28:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[06Dec2024 00:28:07.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[06Dec2024 00:28:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[06Dec2024 00:28:07.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:28:07.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[06Dec2024 00:28:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[06Dec2024 00:28:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Dec2024 00:28:07.868] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[06Dec2024 00:28:07.868] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[06Dec2024 00:28:07.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mars_orbit
+[06Dec2024 00:28:07.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mars_orbit
+[06Dec2024 00:28:07.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[06Dec2024 00:28:07.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[06Dec2024 00:28:07.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[06Dec2024 00:28:07.890] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[06Dec2024 00:28:07.891] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:venus_orbit
+[06Dec2024 00:28:07.891] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:venus_orbit
+[06Dec2024 00:28:07.891] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mercury
+[06Dec2024 00:28:07.891] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mercury
+[06Dec2024 00:28:07.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:earth_orbit
+[06Dec2024 00:28:07.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:earth_orbit
+[06Dec2024 00:28:07.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[06Dec2024 00:28:07.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[06Dec2024 00:28:07.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[06Dec2024 00:28:07.892] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[06Dec2024 00:28:07.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mars
+[06Dec2024 00:28:07.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mars
+[06Dec2024 00:28:07.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:moon
+[06Dec2024 00:28:07.893] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:moon
+[06Dec2024 00:28:07.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:venus
+[06Dec2024 00:28:07.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:venus
+[06Dec2024 00:28:07.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:moon_orbit
+[06Dec2024 00:28:07.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:moon_orbit
+[06Dec2024 00:28:07.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for graveyard:past
+[06Dec2024 00:28:07.894] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for graveyard:past
+[06Dec2024 00:28:07.895] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[06Dec2024 00:28:07.895] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[06Dec2024 00:28:07.895] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:glacio
+[06Dec2024 00:28:07.895] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:glacio
+[06Dec2024 00:28:07.895] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:mercury_orbit
+[06Dec2024 00:28:07.895] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:mercury_orbit
+[06Dec2024 00:28:07.896] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ad_astra:glacio_orbit
+[06Dec2024 00:28:07.896] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ad_astra:glacio_orbit
+[06Dec2024 00:28:07.898] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[06Dec2024 00:28:07.898] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

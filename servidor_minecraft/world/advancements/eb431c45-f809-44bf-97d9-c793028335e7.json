@@ -3760,9 +3760,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/polar_boots": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_iron_axe": "2024-12-07 02:39:54 +0000"
+      "has_azure_bluet": "2024-12-07 02:14:09 +0000"
     },
     "done": true
   },
@@ -3778,81 +3778,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-07 02:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-07 02:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-07 02:40:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-07 02:47:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_magenta": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2024-12-07 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_blue": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-07 02:47:58 +0000"
     },
     "done": true
   },
@@ -3862,141 +3790,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_lime": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_axe_right": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_hoe_left": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_white": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_green": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/altar_block": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/moonstone": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-07 02:17:23 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/bluemoon_greatsword": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_light_gray": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_axe_left": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/bluemoon_shortsword": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-07 02:33:59 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_black": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/uchigatana": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-07 02:47:58 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tengu_helmet": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-07 02:34:04 +0000"
-    },
-    "done": true
-  },
-  "sculktransporting:recipes/redstone/sculk_emitter": {
-    "criteria": {
-      "has_the_recipe": "2024-12-07 02:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-07 02:23:08 +0000"
     },
     "done": true
   },
@@ -4006,57 +3802,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-07 02:19:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-07 02:16:01 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/nail_sword": {
-    "criteria": {
-      "has_iron_block": "2024-12-07 02:17:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-07 02:18:44 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_light_blue": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2024-12-07 02:50:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-07 02:14:43 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/blackstone_pedestal": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-12-07 02:18:31 +0000"
     },
     "done": true
   },
@@ -4072,69 +3820,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-07 02:16:01 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/nail_glaive": {
-    "criteria": {
-      "has_iron_block": "2024-12-07 02:17:23 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_colorless": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:bluemoon_tools": {
-    "criteria": {
-      "soulsweapons:bluemoon_greatsword": "2024-12-07 02:56:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-07 02:34:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_orange": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-07 02:19:08 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_cyan": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_brown": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
     },
     "done": true
   },
@@ -4150,105 +3838,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-07 02:17:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2024-12-07 02:50:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-07 02:22:53 +0000"
-    },
-    "done": true
-  },
-  "sculktransporting:recipes/redstone/speed_modifier_tier_1": {
-    "criteria": {
-      "has_previous": "2024-12-07 02:18:31 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/polar_leggings": {
-    "criteria": {
-      "has_iron_axe": "2024-12-07 02:39:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-07 02:18:44 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_gray": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
-    "criteria": {
-      "has_item": "2024-12-07 02:17:23 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2024-12-07 02:17:23 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2024-12-07 02:50:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-07 02:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/normal_lantern_purple": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-07 02:34:04 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/uchigatana_katana": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
     },
     "done": true
   },
@@ -4270,87 +3862,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/conquistador3_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-07 02:23:08 +0000"
-    },
-    "done": true
-  },
   "hangglider:recipes/tools/glider_wing": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2024-12-07 02:26:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/polar_helmet": {
-    "criteria": {
-      "has_iron_axe": "2024-12-07 02:39:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_hoe_right": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/pirate2_helmet": {
-    "criteria": {
-      "has_red_carpet": "2024-12-07 02:16:44 +0000"
-    },
-    "done": true
-  },
-  "sculktransporting:recipes/sculktransporting/patchouli_book": {
-    "criteria": {
-      "has_book": "2024-12-07 02:16:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2024-12-07 02:26:00 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/diamond_chain": {
-    "criteria": {
-      "recipe_condition": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/boss_compass": {
-    "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
     },
     "done": true
   },
@@ -4366,41 +3886,149 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2024-12-07 02:53:16 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2024-12-07 02:44:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2024-12-07 02:26:00 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/conquistador_chestplate": {
     "criteria": {
       "has_leather": "2024-12-07 02:14:43 +0000"
     },
     "done": true
   },
-  "aquaculture:recipes/tools/diamond_fillet_knife": {
+  "toolbelt:recipes/belt": {
     "criteria": {
-      "has_items": "2024-12-07 02:53:16 +0000"
+      "has_leather": "2024-12-07 02:14:43 +0000"
     },
     "done": true
   },
-  "soulsweapons:all_weapons": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "bluemoon_great": "2024-12-07 02:56:21 +0000"
+      "has_beef": "2024-12-07 02:14:43 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-07 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-07 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "sculktransporting:recipes/redstone/sculk_emitter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-07 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-07 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "sculktransporting:recipes/sculktransporting/patchouli_book": {
+    "criteria": {
+      "has_book": "2024-12-07 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_red_carpet": "2024-12-07 02:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-07 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-07 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-07 02:18:31 +0000"
+    },
+    "done": true
+  },
+  "sculktransporting:recipes/redstone/speed_modifier_tier_1": {
+    "criteria": {
+      "has_previous": "2024-12-07 02:18:31 +0000"
+    },
+    "done": true
+  },
+  "sculktransporting:recipes/redstone/quantity_modifier_tier_1": {
+    "criteria": {
+      "has_previous": "2024-12-07 02:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-07 02:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-07 02:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 02:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-07 02:19:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
@@ -4408,39 +4036,99 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/building_blocks/moonstone_block": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
+      "has_coal_block": "2024-12-07 02:19:33 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/polar_chestplate": {
+  "additionallanterns:recipes/misc/normal_lantern_magenta": {
     "criteria": {
-      "has_iron_axe": "2024-12-07 02:39:54 +0000"
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/tools/moonstone_shovel": {
+  "additionallanterns:recipes/misc/normal_lantern_blue": {
     "criteria": {
-      "has_item": "2024-12-07 02:45:43 +0000"
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_lime": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_white": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_green": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_light_gray": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_black": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_light_blue": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_colorless": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_orange": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_cyan": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_brown": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_gray": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/normal_lantern_purple": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:19:33 +0000"
     },
     "done": true
   },
   "additionallanterns:recipes/misc/normal_lantern_yellow": {
     "criteria": {
       "recipe_condition": "2024-12-07 02:19:33 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador2_helmet": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-07 02:23:08 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:moonstone": {
-    "criteria": {
-      "item": "2024-12-07 02:45:43 +0000"
     },
     "done": true
   },
@@ -4456,9 +4144,45 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "cave_tablet": "2024-12-07 02:48:15 +0000"
+      "has_gold_block": "2024-12-07 02:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-07 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-07 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-07 02:26:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-07 02:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-07 02:26:00 +0000"
     },
     "done": true
   },
@@ -4468,21 +4192,147 @@
     },
     "done": true
   },
-  "sculktransporting:recipes/redstone/quantity_modifier_tier_1": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_previous": "2024-12-07 02:18:31 +0000"
+      "has_hay_block": "2024-12-07 02:30:52 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:deceived_hopes": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "deceived_hopes_0": "2024-12-07 02:52:58 +0000"
+      "has_stone_slab": "2024-12-07 02:33:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_azure_bluet": "2024-12-07 02:14:09 +0000"
+      "has_allium": "2024-12-07 02:34:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-07 02:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-07 02:34:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_iron_axe": "2024-12-07 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_iron_axe": "2024-12-07 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_iron_axe": "2024-12-07 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_iron_axe": "2024-12-07 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 02:40:25 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-07 02:44:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-07 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-07 02:45:43 +0000"
     },
     "done": true
   },
@@ -4492,9 +4342,27 @@
     },
     "done": true
   },
-  "toolbelt:recipes/belt": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_leather": "2024-12-07 02:14:43 +0000"
+      "has_stripped_logs": "2024-12-07 02:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-07 02:47:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-07 02:47:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-07 02:48:15 +0000"
     },
     "done": true
   },
@@ -4504,15 +4372,141 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "is_near_beehive": "2024-12-07 02:15:36 +0000"
+      "shot_arrow": "2024-12-07 02:48:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_hay_block": "2024-12-07 02:30:52 +0000"
+      "has_item": "2024-12-07 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-07 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-07 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2024-12-07 02:50:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-07 02:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/diamond_chain": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-07 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-07 02:53:16 +0000"
     },
     "done": true
   },
@@ -4522,9 +4516,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "soulsweapons:bluemoon_tools": {
     "criteria": {
-      "has_beef": "2024-12-07 02:14:43 +0000"
+      "soulsweapons:bluemoon_greatsword": "2024-12-07 02:56:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_great": "2024-12-07 02:56:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-07 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-07 22:03:01 +0000"
     },
     "done": true
   },

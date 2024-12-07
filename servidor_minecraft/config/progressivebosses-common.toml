@@ -5,6 +5,10 @@
 [Wither]
 	#Bonus Experience and Drops
 	"Enable Rewards" = true
+	#Handles various small features, such as the explosion
+	"Enable Misc" = true
+	#How difficulty is handled for the Wither.
+	"Enable Difficulty Settings" = true
 	#Wither will spawn deadly Minions
 	"Enable Minions" = true
 	#Bonus Health and Bonus regeneration. The feature even fixes the Wither health bar not updating on spawn.
@@ -13,10 +17,6 @@
 	"Enable Attack" = true
 	#Handles the Damage Resistances and Vulnerabilities
 	"Enable Resistances & Vulnerabilities" = true
-	#Handles various small features, such as the explosion
-	"Enable Misc" = true
-	#How difficulty is handled for the Wither.
-	"Enable Difficulty Settings" = true
 
 	#Bonus Experience and Drops
 	[Wither.Rewards]
@@ -26,6 +26,50 @@
 		#If true default mod drops are added to the Wither.
 		#Note that replacing the Wither loot table (e.g. via DataPack) will automatically remove the Injected loot.
 		"Inject Default Loot" = true
+
+	#Handles various small features, such as the explosion
+	[Wither.Misc]
+		#How much explosion power (after the invulnerability) will the Wither have at max difficulty. Explosion Radius is capped to 13. Base Wither Explosion Power is 7.0. Setting this to 0 will not increase the Wither Explosion Power
+		#Range: 0.0 ~ 8.0
+		"Explosion Power Bonus" = 8.0
+		#At this difficulty the Wither Explosion will cause fire. Set to -1 to disable.
+		#Range: > -1
+		"Explosion Causes Fire at Difficulty" = -1
+		#The Wither will no longer wait 1.0 seconds before breaking blocks when he's hit, instead just 0.5s
+		"Faster Breaking Blocks" = true
+		#The Wither will break even blocks below him when hit.
+		"Bigger Breaking Blocks" = true
+		#If true the Wither will break even blocks that are wither-proof. Unbreakable blocks will still be unbreakable, so it's really useful with other mods as in vanilla Wither Proof Blocks are all the unbreakable blocks.
+		"Ignore Wither-proof Blocks" = false
+		#The wither can only be spawned in the Nether.
+		#Note that this feature completely disables Wither Skulls from begin placed nearby Soul Sand when not in the Nether or when on the Nether Roof.
+		#Requires Minecraft restart.
+		"Wither Nether Only" = false
+
+	#How difficulty is handled for the Wither.
+	[Wither."Difficulty Settings"]
+		#The Maximum difficulty (times spawned) reachable by Wither.
+		#Range: > 1
+		"Max Difficulty" = 8
+		#How much difficulty will players start with when joining a world? Note that this will apply when the first Wither is spawned so if the player has already spawned one this will not apply.
+		#Range: > 0
+		"Starting Difficulty" = 0
+		#How much blocks from wither will be scanned for players to check for difficulty
+		#Range: > 16
+		"Spawn Radius Player Check" = 128
+		#If false and there's more than 1 player around the Wither, difficulty will be the average of all the players' difficulty instead of summing them.
+		"Sum Spawned Wither Difficulty" = false
+		#Percentage bonus difficulty added to the Wither when more than one player is present. Each player past the first one will add this percentage to the difficulty.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Difficulty per Player" = 0.25
+		#Set to false to disable the first Wither summoned message.
+		"Show First Summoned Wither Message" = true
+
+		#Entities that extend the vanilla Wither but shouldn't be taken into account by the mod (e.g. Botania's Pink Wither).
+		[Wither."Difficulty Settings"."Entity Blacklist"]
+			Blacklist = ["botania:pink_wither"]
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
 
 	#Wither will spawn deadly Minions
 	[Wither.Minions]
@@ -156,51 +200,9 @@
 		#Range: 0.0 ~ 1024.0
 		"Magic Damage Bonus" = 250.0
 
-	#Handles various small features, such as the explosion
-	[Wither.Misc]
-		#How much explosion power (after the invulnerability) will the Wither have at max difficulty. Explosion Radius is capped to 13. Base Wither Explosion Power is 7.0. Setting this to 0 will not increase the Wither Explosion Power
-		#Range: 0.0 ~ 8.0
-		"Explosion Power Bonus" = 8.0
-		#At this difficulty the Wither Explosion will cause fire. Set to -1 to disable.
-		#Range: > -1
-		"Explosion Causes Fire at Difficulty" = -1
-		#The Wither will no longer wait 1.0 seconds before breaking blocks when he's hit, instead just 0.5s
-		"Faster Breaking Blocks" = true
-		#The Wither will break even blocks below him when hit.
-		"Bigger Breaking Blocks" = true
-		#If true the Wither will break even blocks that are wither-proof. Unbreakable blocks will still be unbreakable, so it's really useful with other mods as in vanilla Wither Proof Blocks are all the unbreakable blocks.
-		"Ignore Wither-proof Blocks" = false
-		#The wither can only be spawned in the Nether.
-		#Note that this feature completely disables Wither Skulls from begin placed nearby Soul Sand when not in the Nether or when on the Nether Roof.
-		#Requires Minecraft restart.
-		"Wither Nether Only" = false
-
-	#How difficulty is handled for the Wither.
-	[Wither."Difficulty Settings"]
-		#The Maximum difficulty (times spawned) reachable by Wither.
-		#Range: > 1
-		"Max Difficulty" = 8
-		#How much difficulty will players start with when joining a world? Note that this will apply when the first Wither is spawned so if the player has already spawned one this will not apply.
-		#Range: > 0
-		"Starting Difficulty" = 0
-		#How much blocks from wither will be scanned for players to check for difficulty
-		#Range: > 16
-		"Spawn Radius Player Check" = 128
-		#If false and there's more than 1 player around the Wither, difficulty will be the average of all the players' difficulty instead of summing them.
-		"Sum Spawned Wither Difficulty" = false
-		#Percentage bonus difficulty added to the Wither when more than one player is present. Each player past the first one will add this percentage to the difficulty.
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Difficulty per Player" = 0.25
-		#Set to false to disable the first Wither summoned message.
-		"Show First Summoned Wither Message" = true
-
-		#Entities that extend the vanilla Wither but shouldn't be taken into account by the mod (e.g. Botania's Pink Wither).
-		[Wither."Difficulty Settings"."Entity Blacklist"]
-			Blacklist = ["botania:pink_wither"]
-			#If true the list will be treated as a whitelist instead of blacklist
-			"List as Whitelist" = false
-
 ["Elder Guardian"]
+	#More damage and attack speed based off Elder Guardians Defeated
+	"Enable Attack" = true
 	#Bonus Experience and Dragon Egg per player
 	"Enable Rewards" = true
 	#Elder Guardians will spawn Elder Minions.
@@ -209,8 +211,15 @@
 	"Enable Resistances" = true
 	#Bonus Health and Health regeneration.
 	"Enable Health" = true
+
 	#More damage and attack speed based off Elder Guardians Defeated
-	"Enable Attack" = true
+	["Elder Guardian".Attack]
+		#Percentage Bonus damage per defeated Elder Guardian.
+		#Range: 0.0 ~ 128.0
+		"Bonus Damage per Elder Guardian Defeated" = 0.0
+		#How many ticks faster will Elder Guardian attack (multiplied by defeated Elder Guardians). Vanilla Attack Duration is 60 ticks (3 secs)
+		#Range: 0 ~ 60
+		"Attack Duration Reduction per Elder Guardian Defeated" = 25
 
 	#Bonus Experience and Dragon Egg per player
 	["Elder Guardian".Rewards]
@@ -259,28 +268,19 @@
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Health Regen" = 0.5
 
-	#More damage and attack speed based off Elder Guardians Defeated
-	["Elder Guardian".Attack]
-		#Percentage Bonus damage per defeated Elder Guardian.
-		#Range: 0.0 ~ 128.0
-		"Bonus Damage per Elder Guardian Defeated" = 0.0
-		#How many ticks faster will Elder Guardian attack (multiplied by defeated Elder Guardians). Vanilla Attack Duration is 60 ticks (3 secs)
-		#Range: 0 ~ 60
-		"Attack Duration Reduction per Elder Guardian Defeated" = 25
-
 ["Ender Dragon"]
 	#Bonus Experience and Dragon Egg per player
 	"Enable Rewards" = true
-	#Mini things that are just annoying.
-	"Enable Larva" = true
-	#Makes the dragon hit harder in various different ways
-	"Enable Attack" = true
 	#Shulkers that will make you float around.
 	"Enable Minions" = true
-	#Makes more Crystal spawn and with more cages.
-	"Enable Crystals" = true
+	#Makes the dragon hit harder in various different ways
+	"Enable Attack" = true
+	#Mini things that are just annoying.
+	"Enable Larva" = true
 	#Handles the Damage Resistances and Vulnerabilities
 	"Enable Resistances & Vulnerabilities" = true
+	#Makes more Crystal spawn and with more cages.
+	"Enable Crystals" = true
 	#Bonus Health and Bonus regeneration.
 	"Enable Health" = true
 
@@ -291,57 +291,6 @@
 		"Bonus Experience" = 36.0
 		#If true whenever a player, that has never killed the dragon, kills the dragon a Dragon Egg will drop. E.g. If 2 players kill the Dragon for the first time, she will drop 2 Dragon Eggs
 		"Dragon Egg per Player" = true
-
-	#Mini things that are just annoying.
-	["Ender Dragon".Larva]
-		#At which difficulty the Ender Dragon starts spawning Larvae
-		#Range: > 0
-		"Larva at Difficulty" = 1
-		#As the Ender Dragon starts spawning Minions, every how much difficulty she will spawn one more Minions
-		#Range: > 0
-		"Bonus Larva Every Difficulty" = 1
-		#Maximum Larva spawned by the Ender Dragon
-		#Range: > 0
-		"Max Larvae Spawned" = 7
-		#Minimum ticks (20 ticks = 1 seconds) after Minions can spawn.
-		#Range: > 0
-		"Minimum Cooldown" = 800
-		#Maximum ticks (20 ticks = 1 seconds) after Minions can spawn.
-		#Range: > 0
-		"Maximum Cooldown" = 1400
-		#If true, Larvae will take only 10% damage from the Ender Dragon.
-		"Reduced Dragon Damage" = true
-
-	#Makes the dragon hit harder in various different ways
-	["Ender Dragon".Attack]
-		#How much more damage at max difficulty (percentage) does the Ender Dragon deal per difficulty?
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Direct Damage" = 2.25
-		#How much more damage at max difficulty (percentage) does the Ender Dragon's Acid fireball and pool deal per difficulty?
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Acid Pool Damage" = 2.4
-		#Normally the Ender Dragon attacks only when leaving the center platform. With this active she has a chance when she has finished charging / fireballing or before checking if she should land in the center to charge the player.
-		#This is the chance to start a charge attack when the difficulty is at max. Otherwise it scales accordingly.
-		#The actual chance is: (this_value * (difficulty / max difficulty)).
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Charge Player Max Chance" = 0.45
-		#Normally the Ender Dragon spits fireballs when a Crystal is destroyed and rarely during the fight. With this active she has a chance when she has finished charging / fireballing or before checking if she should land in the center to spit a fireball.
-		#This is the chance to start a fireball attack when the difficulty is at max. Otherwise it scales accordingly.
-		#The actual chance is: (this_value * (difficulty / max difficulty)).
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Fireball Max Chance" = 0.35
-		#Since around 1.13/1.14 the Ender Dragon can no longer dive for more than about 3 blocks so she takes a lot to rise / fall. With this active the dragon will be able to rise and fall many more blocks, making easier to hit the player and approach the center.
-		"Increase Max Rise and Fall" = true
-		#On impact the Acid Fireball will deal magic damage in an area.
-		"Fireball Explosion Magic Damage" = true
-		#On impact the Acid Fireball will generate a 3D area of effect cloud instead of a normal flat one. The 3D cloud lasts for half the time.
-		"Fireball 3D Area Effect Cloud" = true
-		#Speed multiplier for the Dragon Fireball.
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Fireball Velocity Multiplier" = 2.5
-		#The dragon will fire (up to) this more fireballs at max difficulty. The bonus fireballs have a slight shotting error so aren't all directly aimed at the player.
-		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Fireballs" = 15.0
 
 	#How difficulty is handled for the Dragon.
 	["Ender Dragon"."Difficulty Settings"]
@@ -382,6 +331,69 @@
 		#If true, Dragon Minions will take only 10% damage from the Ender Dragon.
 		"Reduced Dragon Damage" = true
 
+	#Makes the dragon hit harder in various different ways
+	["Ender Dragon".Attack]
+		#How much more damage at max difficulty (percentage) does the Ender Dragon deal per difficulty?
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Direct Damage" = 2.25
+		#How much more damage at max difficulty (percentage) does the Ender Dragon's Acid fireball and pool deal per difficulty?
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Acid Pool Damage" = 2.4
+		#Normally the Ender Dragon attacks only when leaving the center platform. With this active she has a chance when she has finished charging / fireballing or before checking if she should land in the center to charge the player.
+		#This is the chance to start a charge attack when the difficulty is at max. Otherwise it scales accordingly.
+		#The actual chance is: (this_value * (difficulty / max difficulty)).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Charge Player Max Chance" = 0.45
+		#Normally the Ender Dragon spits fireballs when a Crystal is destroyed and rarely during the fight. With this active she has a chance when she has finished charging / fireballing or before checking if she should land in the center to spit a fireball.
+		#This is the chance to start a fireball attack when the difficulty is at max. Otherwise it scales accordingly.
+		#The actual chance is: (this_value * (difficulty / max difficulty)).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Fireball Max Chance" = 0.35
+		#Since around 1.13/1.14 the Ender Dragon can no longer dive for more than about 3 blocks so she takes a lot to rise / fall. With this active the dragon will be able to rise and fall many more blocks, making easier to hit the player and approach the center.
+		"Increase Max Rise and Fall" = true
+		#On impact the Acid Fireball will deal magic damage in an area.
+		"Fireball Explosion Magic Damage" = true
+		#On impact the Acid Fireball will generate a 3D area of effect cloud instead of a normal flat one. The 3D cloud lasts for half the time.
+		"Fireball 3D Area Effect Cloud" = true
+		#Speed multiplier for the Dragon Fireball.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Fireball Velocity Multiplier" = 2.5
+		#The dragon will fire (up to) this more fireballs at max difficulty. The bonus fireballs have a slight shotting error so aren't all directly aimed at the player.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		"Bonus Fireballs" = 15.0
+
+	#Mini things that are just annoying.
+	["Ender Dragon".Larva]
+		#At which difficulty the Ender Dragon starts spawning Larvae
+		#Range: > 0
+		"Larva at Difficulty" = 1
+		#As the Ender Dragon starts spawning Minions, every how much difficulty she will spawn one more Minions
+		#Range: > 0
+		"Bonus Larva Every Difficulty" = 1
+		#Maximum Larva spawned by the Ender Dragon
+		#Range: > 0
+		"Max Larvae Spawned" = 7
+		#Minimum ticks (20 ticks = 1 seconds) after Minions can spawn.
+		#Range: > 0
+		"Minimum Cooldown" = 800
+		#Maximum ticks (20 ticks = 1 seconds) after Minions can spawn.
+		#Range: > 0
+		"Maximum Cooldown" = 1400
+		#If true, Larvae will take only 10% damage from the Ender Dragon.
+		"Reduced Dragon Damage" = true
+
+	#Handles the Damage Resistances and Vulnerabilities
+	["Ender Dragon"."Resistances & Vulnerabilities"]
+		#Melee Damage reduction at max difficulty while the Ender Dragon is at the center.
+		#Range: 0.0 ~ 1.0
+		"Melee Damage reduction while at the center" = 0.24
+		#Melee Damage is increased by this percentage while the Ender Dragon is not at the center.
+		#Range: 0.0 ~ 1.0
+		"Melee Damage increase while not at the center" = 0.24
+		#Damage reduction when hit by explosions (firework rockets excluded).
+		#Range: 0.0 ~ 1.0
+		"Explosion Damage reduction" = 0.667
+
 	#Makes more Crystal spawn and with more cages.
 	["Ender Dragon".Crystals]
 		#At this difficulty cages will start to appear around other crystals too. -1 will disable this feature.
@@ -406,18 +418,6 @@
 		"Crystal Respawn Per Difficulty" = 3.0
 		#Crystals can no longer be destroyed by other explosions.
 		"Explosion Immune" = true
-
-	#Handles the Damage Resistances and Vulnerabilities
-	["Ender Dragon"."Resistances & Vulnerabilities"]
-		#Melee Damage reduction at max difficulty while the Ender Dragon is at the center.
-		#Range: 0.0 ~ 1.0
-		"Melee Damage reduction while at the center" = 0.24
-		#Melee Damage is increased by this percentage while the Ender Dragon is not at the center.
-		#Range: 0.0 ~ 1.0
-		"Melee Damage increase while not at the center" = 0.24
-		#Damage reduction when hit by explosions (firework rockets excluded).
-		#Range: 0.0 ~ 1.0
-		"Explosion Damage reduction" = 0.667
 
 	#Bonus Health and Bonus regeneration.
 	["Ender Dragon".Health]
